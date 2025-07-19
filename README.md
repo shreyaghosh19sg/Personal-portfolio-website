@@ -28,6 +28,6 @@ This is a single-page portfolio website designed to reflect my personality, crea
 - 🧾 Projects with GitHub links
 - 📬 Contact section with LinkedIn, GitHub, and email
 - 📱 Mobile-friendly design
-
+https://lustrous-narwhal-f5be27.netlify.app/
 
 
